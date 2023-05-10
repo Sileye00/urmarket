@@ -19,7 +19,7 @@
         "urmarkete252be72": {
           "secretsPathAmplifyAppId": "d8e6eoe8ea3nq",
           "deploymentBucketName": "amplify-urmarket-staging-191808-deployment",
-          "s3Key": "amplify-builds/urmarkete252be72-62794d4d6176454c4832-build.zip"
+          "s3Key": "amplify-builds/urmarkete252be72-4e485a494e5171794175-build.zip"
         }
       },
       "api": {
