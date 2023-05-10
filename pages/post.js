@@ -26,7 +26,7 @@ function Post() {
     <Layout
       handleClick={() => signOut()}
       authText="Sign Out"
-      username={"christian@hotmail.com".split("@")[0]}
+      username={user.attributes.email.split("@")[0]}
     >
       <View marginTop="50px" marginBottom="30px">
         <Heading level={2}>Welcome to our backstage</Heading>
